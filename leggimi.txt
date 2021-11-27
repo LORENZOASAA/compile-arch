@@ -1,0 +1,9 @@
+ci sono 2 parti
+la prima è per l'installazione setup.sh
+la secondo setup2.sh è dopo il riavvio
+prima di cominciare bisogna modificare i file con 
+nano setup.sh
+nano setup2.sh
+infine chmod +x *
+./setup.sh
+./setup2.sh
