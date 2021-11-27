@@ -1,3 +1,4 @@
+# script dopo il riavvio.
 pacman -S alsa-utils
 pacman -S xorg-server xorg-xinit
 	# togliere # per installre il desktop e usarlo 
